@@ -1,0 +1,7 @@
+FP-Compare models.ipynb: This file is used to build the baseline of the six models that the final project will test
+
+FP-LightGBM- Parameter Tuning.ipynb: Thsi file contains parameter tunning codes for LightGBM model
+
+FP-Random Forest- Parameter Tuning.ipynb: Thsi file contains parameter tunning codes for random forest model
+
+Final Project.ipynb: The whole codes for this project
