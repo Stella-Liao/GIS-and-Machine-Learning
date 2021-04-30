@@ -1,3 +1,7 @@
+You can get more details abour this project through https://drive.google.com/file/d/1er6afLHnmQJJR5vrIN3jRTBLm4HIpyYP/view
+
+Descriptions about the files:
+
 FP-Compare models.ipynb: This file is used to build the baseline of the six models that the final project will test
 
 FP-LightGBM- Parameter Tuning.ipynb: Thsi file contains parameter tunning codes for LightGBM model
